@@ -1,5 +1,5 @@
 ## Mentoria invertida de Javascript e eventos
-Iremos desenvolver um layout de uma página
+Iremos desenvolver uma lista de times, em javascript
 
 ## ✈ Mentoria invertida
 📌 Essa mentoria invertida, tem como objetivo de praticar eventos e javascript

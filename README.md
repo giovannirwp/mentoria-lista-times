@@ -10,7 +10,7 @@ Iremos desenvolver um layout de uma página
 <a href="https://giovannirwp.github.io/html-css-layout/" target="_blank">Layout pronto, para visualização</a>
 
 ### 📋 Explicação
-Já existe, o ```reset.css``` e ``` index.html ```
+Já existe, o ```style.css``` , ``` script.js ``` e ``` index.html ```
 Essa estrutura, já existe para ajudar no desenvolvimento. Isso seguinifica que não vai precisar criar novos arquivos.
 
 No arquivo ``` index.html ```, já está sendo importando os seguinte css

@@ -7,7 +7,7 @@ Iremos desenvolver um layout de uma página
 <img src="https://raw.githubusercontent.com/giovannirwp/mentoria-lista-times/master/img/Captura%20de%20tela%20de%202022-04-17%2017-56-13.png" widt="750" />
 
 📌 Link do layout pronto, para visualização
-<a href="https://giovannirwp.github.io/html-css-layout/" target="_blank">Layout pronto, para visualização</a>
+<a href="https://giovannirwp.github.io/mentoria-lista-tarefas/" target="_blank">Layout pronto, para visualização</a>
 
 ### 📋 Explicação
 Já existe, o ```style.css``` , ``` script.js ``` e ``` index.html ```

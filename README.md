@@ -2,7 +2,7 @@
 Iremos desenvolver um layout de uma página
 
 ## ✈ Mentoria invertida
-📌 Essa mentoria invertida, tem como objetivo de criar um layout, com o tema do Dragonball Z.
+📌 Essa mentoria invertida, tem como objetivo de praticar eventos e javascript
 
 <img src="https://github.com/giovannirwp/mentoria-invertida-css-html/blob/main/img/print-layout01.png" widt="750" />
 
@@ -15,13 +15,14 @@ Essa estrutura, já existe para ajudar no desenvolvimento. Isso seguinifica que 
 
 No arquivo ``` index.html ```, já está sendo importando os seguinte css
 ```     
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css" />
-    <link rel="stylesheet" href="css/reset.css" />
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,500;1,400&display=swap" rel="stylesheet">
 ```
 
 ## 🚀 Bora, vamos começar?
-🔩 Muito bom, vamos começar a desenvolver o nosso layout 😀
+🔩 Muito bom, vamos começar a desenvolver 😀
 
 ## 🥇 Começando
 🔧 As imagens já existe no projeto
@@ -30,6 +31,7 @@ No final dessa mentoria, você com certeza vai estar bem melhor com html e css.
 E aprender, os seguintes temas 😀
 
 * Seguir um layout, que o designer desenvolveu
-* Css e Pseudo-elementos
-* Trabalhar com posicionamento
-* Distribuir cores no css
+* Javascript e funções
+* Trabalhar com eventos em javascript
+* Criação de elementos pelo javascript
+* Manipulação de HTML pelo javascript

@@ -4,7 +4,7 @@ Iremos desenvolver um layout de uma página
 ## ✈ Mentoria invertida
 📌 Essa mentoria invertida, tem como objetivo de praticar eventos e javascript
 
-<img src="https://github.com/giovannirwp/mentoria-invertida-css-html/blob/main/img/print-layout01.png" widt="750" />
+<img src="https://raw.githubusercontent.com/giovannirwp/mentoria-lista-times/master/img/Captura%20de%20tela%20de%202022-04-17%2017-56-13.png" widt="750" />
 
 📌 Link do layout pronto, para visualização
 <a href="https://giovannirwp.github.io/html-css-layout/" target="_blank">Layout pronto, para visualização</a>

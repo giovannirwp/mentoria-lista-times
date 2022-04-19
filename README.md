@@ -2,7 +2,7 @@
 Iremos desenvolver uma lista de times, em javascript
 
 ## ✈ Mentoria invertida
-📌 Essa mentoria invertida, tem como objetivo de praticar eventos e javascript
+📌 Essa mentoria invertida, tem como objetivo praticar eventos com javascript
 
 <img src="https://raw.githubusercontent.com/giovannirwp/mentoria-lista-times/master/img/Captura%20de%20tela%20de%202022-04-17%2017-56-13.png" widt="750" />
 
@@ -11,9 +11,9 @@ Iremos desenvolver uma lista de times, em javascript
 
 ### 📋 Explicação
 Já existe, o ```style.css``` , ``` script.js ``` e ``` index.html ```
-Essa estrutura, já existe para ajudar no desenvolvimento. Isso seguinifica que não vai precisar criar novos arquivos.
+Essa estrutura, já existe para ajudar no desenvolvimento. Isso significa que não é necessário criar novos arquivos.
 
-No arquivo ``` index.html ```, já está sendo importando os seguinte css
+No arquivo ``` index.html ```, já está sendo importado os seguintes css
 ```     
     <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -25,7 +25,7 @@ No arquivo ``` index.html ```, já está sendo importando os seguinte css
 🔩 Muito bom, vamos começar a desenvolver 😀
 
 ## 🥇 Começando
-🔧 As imagens já existe no projeto
+🔧 As imagens já existem no projeto
 
 No final dessa mentoria, você com certeza vai estar bem melhor com html e css.
 E aprender, os seguintes temas 😀

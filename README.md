@@ -27,7 +27,7 @@ No arquivo ``` index.html ```, já está sendo importado os seguintes css
 ## 🥇 Começando
 🔧 As imagens já existem no projeto
 
-No final dessa mentoria, você com certeza vai estar bem melhor com html e css.
+No final dessa mentoria, você com certeza vai estar bem melhor com html, css e javascript.
 E aprender, os seguintes temas 😀
 
 * Seguir um layout, que o designer desenvolveu
